@@ -1,2 +1,2 @@
-# Simple-Typescript-Template
-A simple typescript project template.
+# Ethereum-Custom-Errors
+Get error selectors from custom errors.

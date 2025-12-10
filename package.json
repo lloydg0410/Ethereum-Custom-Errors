@@ -1,7 +1,7 @@
 {
-  "name": "simple-typescript-template",
+  "name": "ethereum-custom-errors",
   "version": "1.0.0",
-  "description": "A simple typescript project template.",
+  "description": "Get error selectors from custom errors.",
   "main": "index.js",
   "scripts": {
     "start": "tsx ./src/index.ts"
