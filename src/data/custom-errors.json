@@ -47,7 +47,6 @@
     "NotEnoughValue()",
     "FromIsNotSender()",
     "ToIsNotThis()",
-    "ETHTransferFailed()",
     "OwnableUnauthorizedAccount(address account)",
     "OwnableInvalidOwner(address owner)",
     "ReturnAmountIsNotEnough(uint256 result, uint256 minReturn)",
@@ -58,5 +57,14 @@
     "BadPool()",
     "BadCurveSwapSelector()",
     "ReservesCallFailed()",
-    "ZeroAddress()"
+    "ZeroAddress()",
+    "OnlyLimitOrderProtocol()",
+    "OnlyWhitelistOrAccessToken()",
+    "InconsistentFee()",
+    "SafeCastOverflowedUintDowncast(uint8 bits, uint256 value)",
+    "SafeCastOverflowedIntToUint(int256 value)",
+    "SafeCastOverflowedIntDowncast(uint8 bits, int256 value)",
+    "SafeCastOverflowedUintToInt(uint256 value)",
+    "InvalidIntegratorShare()",
+    "InvalidWhitelistDiscountNumerator()"
 ]

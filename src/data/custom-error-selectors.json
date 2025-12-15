@@ -57,5 +57,14 @@
   "0xb2c02722": "BadPool()",
   "0xa231cb82": "BadCurveSwapSelector()",
   "0x85cd58dc": "ReservesCallFailed()",
-  "0xd92e233d": "ZeroAddress()"
+  "0xd92e233d": "ZeroAddress()",
+  "0xd25aa106": "OnlyLimitOrderProtocol()",
+  "0x0155201f": "OnlyWhitelistOrAccessToken()",
+  "0x679a57eb": "InconsistentFee()",
+  "0xb5ede3ec": "SafeCastOverflowedUintDowncast(uint8 bits, uint256 value)",
+  "0xc4ed7081": "SafeCastOverflowedIntToUint(int256 value)",
+  "0xbbd0bec2": "SafeCastOverflowedIntDowncast(uint8 bits, int256 value)",
+  "0xbe29d968": "SafeCastOverflowedUintToInt(uint256 value)",
+  "0xc5374e2d": "InvalidIntegratorShare()",
+  "0x3066a1f1": "InvalidWhitelistDiscountNumerator()"
 }
